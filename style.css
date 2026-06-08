@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 780px;
+
+    background:
+
+    radial-gradient(circle at 35% 20%,
+    white 0px,
+    white 8px,
+    transparent 15px),
+
+
+    radial-gradient(circle at center,
+    rgba(0,100,255,.8) 0%,
+    rgba(0,100,255,.5) 25%,
+    transparent 65%),
+
+    radial-gradient(circle at 50% 65%,
+    rgba(0,255,0,.8) 0%,
+    rgba(0,255,0,.4) 30%,
+    transparent 50%),
+    url("Trollface.png");
+
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: auto;
+    background-color: black;
+
+}
